@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- text to list_one_device_a -->
+    <string name="number_label">No:</string>
+    <string name="number_text_hint">No</string>
+    <string name="name_label">Name:</string>
+    <string name="name_text_hint">No Name</string>
+    <string name="mac_label">MAC:</string>
+    <string name="mac_text_hint">MAC not found</string>
+    <string name="power_label">Power:</string>
+    <string name="power_text_hint">PWR</string>
+    <string name="company_label">Company:</string>
+    <string name="company_text_hint">Device\'s company name</string>
+
+    <!-- text to list_one_device_demo -->
+    <string name="demo_number_label">No:</string>
+    <string name="demo_number_text_hint">xx</string>
+    <string name="demo_name_label">Name:</string>
+    <string name="demo_name_text_hint">Device name</string>
+    <string name="demo_mac_label">MAC:</string>
+    <string name="demo_mac_text_hint">xx:xx:xx:xx:xx:xx</string>
+    <string name="demo_power_label">Power:</string>
+    <string name="demo_power_text_hint">PWR</string>
+    <string name="demo_company_label">Company:</string>
+    <string name="demo_company_text_hint">Device\'s company name</string>
+
+
+</resources>

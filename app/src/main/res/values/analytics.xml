@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Replace placeholder ID with your tracking ID -->
+    <string name="ga_trackingId">UA-46715080-4</string>
+
+    <!-- Enable automatic activity tracking -->
+    <bool name="ga_autoActivityTracking">true</bool>
+
+    <!-- Enable automatic exception tracking -->
+    <bool name="ga_reportUncaughtExceptions">true</bool>
+    <!-- The screen names that will appear in reports -->    <string name="com.gmail.prebhans.checkbluetooth.Scanning">Scanning</string>
+    <string name="com.gmail.prebhans.checkbluetooth.Database">Database</string>
+    <string name="com.gmail.prebhans.checkbluetooth.Paired">Paired</string>
+
+</resources>

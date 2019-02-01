@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- values - v11 -->
+    <!-- Activity themes -->
+    <style name="Theme.Base" parent="android:Theme.Holo.Light" />
+
+    <style name="ListLabelStyle">
+        <item name="android:textSize">10.0sp</item>
+        <item name="android:textColor">@color/list_view_label</item>
+    </style>
+
+    <style name="ListTextStyle">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:textColor">@color/list_view_text</item>
+    </style>
+
+</resources>

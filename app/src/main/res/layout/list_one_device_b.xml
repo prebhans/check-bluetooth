@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/border_red"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="9.0"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/db_no_label"
+                style="@style/ListLabelStyle"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="10.0"
+                android:background="@drawable/border_white"
+                android:text="@string/number_label" />
+
+            <TextView
+                android:id="@+id/db_no_digits"
+                style="@style/ListTextStyle"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="10.0"
+                android:background="@drawable/border_white"
+                android:hint="@string/number_text_hint" />
+
+            <TextView
+                android:id="@+id/db_name_label"
+                style="@style/ListLabelStyle"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="20.0"
+                android:background="@drawable/border_white"
+                android:text="@string/name_label" />
+
+            <TextView
+                android:id="@+id/db_name"
+                style="@style/ListTextStyle"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="60.0"
+                android:background="@drawable/border_white"
+                android:hint="@string/name_text_hint"
+                android:textColorHint="@color/bluescan_gray_med_lt" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="0.0dip" >
+
+            <TextView
+                android:id="@+id/db_mac_label"
+                style="@style/ListLabelStyle"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="15.0"
+                android:background="@drawable/border_white"
+                android:text="@string/mac_label" />
+
+            <TextView
+                android:id="@+id/db_mac_addr"
+                style="@style/ListTextStyle"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="55.0"
+                android:background="@drawable/border_white"
+                android:hint="@string/mac_text_hint"
+                android:textColorHint="@color/bluescan_gray_med_lt" />
+
+            <TextView
+                android:id="@+id/db_rssi_label"
+                style="@style/ListLabelStyle"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="15.0"
+                android:background="@drawable/border_white"
+                android:text="@string/power_label" />
+
+            <TextView
+                android:id="@+id/db_rssi"
+                style="@style/ListTextStyle"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="15.0"
+                android:background="@drawable/border_white"
+                android:hint="@string/power_text_hint" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/db_company_label"
+                style="@style/ListLabelStyle"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="20.0"
+                android:background="@drawable/border_white"
+                android:text="@string/company_label" />
+
+            <TextView
+                android:id="@+id/db_company_name"
+                style="@style/ListTextStyle"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="80.0"
+                android:background="@drawable/border_white"
+                android:hint="@string/company_text_hint"
+                android:textColorHint="@color/bluescan_gray_med_lt" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <CheckBox
+        android:id="@+id/checkBox1"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.0"
+        android:layout_gravity="center"
+        android:text="" />
+
+</LinearLayout>

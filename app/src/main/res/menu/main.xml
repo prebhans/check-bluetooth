@@ -1,0 +1,30 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_bluetooth"
+        android:icon="@drawable/bt_bar_icon_b"
+        android:showAsAction="always"
+        android:title="@string/menu_bluetooth"/>
+    <item
+        android:id="@+id/menu_rate"
+        android:icon="@drawable/rate_star_big_on"
+        android:showAsAction="ifRoom"
+        android:title="@string/menu_rate"/>
+    <item
+        android:id="@+id/menu_help"
+        android:icon="@drawable/ic_menu_help"
+        android:showAsAction="ifRoom"
+        android:title="@string/menu_help"/>
+    <item
+        android:id="@+id/menu_share"
+        android:icon="@drawable/ic_action_share"
+        android:showAsAction="ifRoom"
+        android:title="@string/menu_share"/>
+    <item
+        android:id="@+id/menu_settings"
+        android:icon="@drawable/ic_settings"
+        android:showAsAction="ifRoom"
+        android:title="@string/menu_settings"/>
+
+</menu>

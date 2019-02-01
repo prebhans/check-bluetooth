@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="AntiFlashWhite">#fff2f3f4</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="blue1">#0000ff</color>
+    <color name="red1">#ff0000</color>
+    <color name="green1">#00ff00</color>
+    <color name="actionbarblue">#33b5e5</color>
+    <color name="about_popup">#ff626262</color>
+    <!-- color 2 as s -->
+    <color name="sRed">#ed1c24</color>
+    <color name="sGreen">#6cc069</color>
+    <color name="sBlue">#00aeef</color>
+    <color name="sYellow">#fff200</color>
+    <!-- color 1 as n -->
+    <color name="nRed">#FF5948</color>
+    <color name="nGreen">#5CBC6A</color>
+    <color name="nBlue">#36B1F0</color>
+    <color name="nYellow">#FFF451</color>
+    <!-- color 4 as k nykredit color -->
+    <color name="kRed">#9a3821</color>
+    <color name="kGreen">#70a100</color>
+    <color name="kBlue">#6473a5</color>
+    <color name="kYellow">#ffd500</color>
+    <!-- color 0 as p Patent color -->
+    <color name="pRed">#E55E55</color>
+    <color name="pGreen">#65A56C</color>
+    <color name="pBlue">#4E88DA</color>
+    <color name="pYellow">#F9E560</color>
+    <!-- color 3 as g Google color -->
+    <color name="gRed">#d50f25</color>
+    <color name="gGreen">#009939</color>
+    <color name="gBlue">#3369e8</color>
+    <color name="gYellow">#eeb211</color>
+    <!-- color for templete -->
+    <color name="sSpecialRed">#ac2d41</color>
+    <color name="halfRed">#800000</color>
+    <color name="halfGreen">#008000</color>
+    <color name="halfBlue">#000080</color>
+    <!-- color from BlueScan -->
+    <color name="bluescan_blue">#ff00aeef</color>
+    <color name="bluescan_gray_dark">#ff464646</color>
+    <color name="bluescan_gray_light">#ffbebebe</color>
+    <color name="bluescan_gray_med_dk">#ff5c6160</color>
+    <color name="bluescan_gray_med_lt">#ff6d6e71</color>
+    <color name="bluescan_gray_very_light">#ffeeeeee</color>
+    <color name="bluescan_green">#ff9db93b</color>
+    <color name="bluescan_orange">#fff16824</color>
+    <color name="bluescan_white">#ffffffff</color>
+    <!-- color for text -->
+    <color name="list_view_text">#ff1a1a1a</color>
+    <color name="list_view_label">#ff0A3D91</color>
+    <color name="light_blue">#ffadd8e5</color>
+    <color name="light_red">#ffF7B0B0</color>
+    <color name="light_green">#ffA8E3AB</color>
+    <!-- color for listview -->
+    <color name="md_red_A700">#ffd50000</color>
+    <color name="md_red_50">#ffffebee</color>
+    <color name="md_red_100">#ffffcdd2</color>
+    <color name="md_blue_A700">#ff2962ff</color>
+    <color name="md_blue_50">#ffe3f2fd</color>
+    <color name="md_blue_100">#ffbbdefb</color>
+    <color name="md_green_A700">#ff00C853</color>
+    <color name="md_green_50">#ffE8F5E9</color>
+    <color name="md_green_100">#ffC8E6C9</color>
+
+</resources>

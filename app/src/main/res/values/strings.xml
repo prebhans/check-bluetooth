@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bluetooth</string>
+    <string name="app_fuld_name">Check Bluetooth</string>
+    <string name="set_title">Check</string>
+    <string name="set_sub_title">Bluetooth</string>
+    <string name="test_device_db">TestDeviceDB</string>
+    <string name="title_section1">Scanning</string>
+    <string name="title_section2">Database</string>
+    <string name="title_section3">Paired</string>
+    <string name="hello_world">Check Bluetooth</string>
+    <string name="need_text">Permission needed</string>
+
+    <!-- adMob data -->
+    <string name="ad_unit_id_main">ca-app-pub-</string>
+    <string name="ad_unit_id_main_tilt">ca-app-pub-</string>
+
+    <!-- text to menu -->
+    <string name="menu_settings">Settings</string>
+    <string name="menu_send">Share Devices</string>
+    <string name="menu_bluetooth">Bluetooth</string>
+    <string name="menu_help">Help</string>
+    <string name="menu_rate">Please, rate me</string>
+    <string name="menu_share">Share to friends</string>
+    <string name="menu_about">ABOUT ME</string>
+
+    <!-- text to buttom -->
+    <string name="start_scan">Start  Scan</string>
+    <string name="start_stop">Stop  Scan</string>
+    <string name="delete_some_devices">Delete some devices</string>
+    <string name="delete_all_devices">Delete all devices</string>
+
+    <!-- DeviceListActivity -->
+    <string name="scanning">scanning for devices...</string>
+    <string name="select_device">select a device to connect</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="button_scan">Scan for devices</string>
+
+    <!-- database text -->
+    <string name="delete_some">Delete some ...</string>
+    <string name="delete_some_text">Are you sure you want delete this devices?</string>
+    <string name="delete_all">Delete all ...</string>
+    <string name="delete_all_text">Are you sure you want delete ALL devices?</string>
+    <string name="ok_dev_to_del">OK devices to delete</string>
+    <string name="no_dev_select">No devices selected</string>
+    <string name="no_dev_in_base">No devices in database</string>
+    <string name="all_dev_del">All devices in database deleted</string>
+
+    <!-- Send to friends -->
+    <string name="link_google_play">https://play.google.com/store/apps/details?id=com.gmail.prebhans.checkbluetooth</string>
+    <string name="scanned_devices">Scanned Devices</string>
+    <string name="database_devices">Database Devices</string>
+    <string name="paired_devices">Paired Devices</string>
+    <string name="share_friends">Share Check Bluetooth with friends</string>
+    <string name="share_via">Choose one to share via</string>
+    <string name="share_mode">text/plain</string>
+
+    <!-- Menu overflow text -->
+    <string name="ok">OK</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="email">\nE-mail : \n\nprebhans@gmail.com</string>
+    <string name="website">\nWebsite : \n\nhttp://www.prebhans.com/</string>
+    <string name="main_help">\n<b>Check Bluetooth</b> will check and keep information about your Bluetooth devices in a database. 
+
+\n\nYou get information about bluetooth devices that your <b>Smartphone</b> has scanned.
+
+\n\n<b>Check Bluetooth</b> inform you about:
+
+\n\n&#10102; <b>Name</b> of the device.
+
+\n\n&#10103; <b>MAC Address</b>.
+
+\n\n&#10104; <b>Power Level</b> Received signal strength indication (rssi).
+
+\n\n&#10105; You also get information about <b>paired devices</b>.
+
+\n\n&#10106; You get information about the <b>Company</b> or <b>Manufacturer</b> of the scanned device based on the scanned MAC address. Retrieved from https://macvendors.com.</string>
+
+    <string name="emthy_line">" "</string>
+
+    <!-- EULA a short End User License Agreement -->
+    <string name="accept">Accept</string>
+    <string name="eula_head">Check Bluetooth</string>
+    <string name="eula">Copyright 2015 Prebhans. All Rights Reserved.
+
+\n\nEND USER LICENSE AGREEMENT FOR Check Bluetooth.
+
+\n\nPLEASE READ THIS DOCUMENT CAREFULLY BEFORE USING Check Bluetooth. THIS LICENSE PROVIDES IMPORTANT INFORMATION CONCERNING Check Bluetooth, PROVIDES YOU WITH A LICENSE TO USE Check Bluetooth AND CONTAINS WARRANTY AND LIABILITY INFORMATION.
+
+\n\nBY USING Check Bluetooth, YOU ARE ACCEPTING THE SOFTWARE \"AS IS\" AND AGREEING TO BE BOUND BY THE TERMS OF THIS LICENSE AGREEMENT.
+
+\n\nIN NO ENVENT WILL PREBHANS COULD BE HELD LIABLE FOR ANY DAMASES ARISING FROM THE USE OF Check Bluetooth.
+
+\n\nIF YOU DO NOT WISH TO DO SO, DO NOT USE THE PIN KEY.
+
+\n\n1. Terms of License.
+
+\n\nThis license allows you to use Check Bluetooth on a single device and if you wish to use Check Bluetooth on more than one device, you must download another copy of Check Bluetooth.
+
+\n\n2. Restrictions on Use.
+
+\n\nUnless Prebhans (Owner) has authorized you to distribute Check Bluetooth, you shall not make or distribute copies of Check Bluetooth or transfer Check Bluetooth from one device to another. You shall not decompile, reverse engineer, disassemble or translate Check Bluetooth. You shall not modify, alter, change or otherwise make any modification to Check Bluetooth. 
+
+\n\n3. Ownership.
+
+\n\nThe Owner\'s provides you with limited rights to use Check Bluetooth. The Owner retains all ownership, right, title and interest in, to and of Check Bluetooth and all copies of it. All rights not specifically granted in this license, including domestic and international copyrights, are reserved by the Owner.
+
+\n\n4. Proprietary Markings.
+
+\n\nThe Owners logos, product names, documentation, and other support materials are either patented, copyrighted, trademarked, constitute valuable trade secrets (whether or not any portion of them may be copyrighted or patented) or are otherwise proprietary to the Owner. You shall not remove or obscure the Owner\'s copyright, trade mark or other proprietary notices from any of the materials contained in this package or downloaded together with Check Bluetooth.
+
+\n\n5. Disclaimer of Warranties and Technical Support.
+
+\n\nCheck Bluetooth is provided to you after download and on an \"AS IS\" basis, without any technical support or warranty of any kind including, without limitation, any warranty or condition of merchantability, fitness for a particular purpose and non-infringement.
+
+\n\nSOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, SO THE ABOVE EXCLUSION MAY NOT APPLY TO YOU. YOU MAY ALSO HAVE OTHER LEGAL RIGHTS WHICH VARY FROM JURISDICTION TO JURISDICTION.</string>
+
+
+</resources>

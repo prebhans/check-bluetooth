@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="tab_stream">Stream</string>
+    <string name="tab_messages">Messages</string>
+    <string name="tab_notifications">Notifications</string>
+    <string name="tab_photos">Photos</string>
+    <string name="tab_scanning">Scanning</string>
+    <string name="tab_database">Database</string>
+    <string name="tab_paired">Paired</string>
+    <string name="scan_tab_text">Scanning</string>
+    <string name="data_tab_text">Database</string>
+    <string name="pair_tab_text">Paired</string>
+
+</resources>
